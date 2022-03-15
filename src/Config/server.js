@@ -1,0 +1,1 @@
+export const server = 'https://api.cariilmu.co.id/api/v1/public'
